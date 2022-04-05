@@ -2,6 +2,10 @@
 
 Recommendation algorithm set
 
+## Pipeline
+<img width="660" alt="Untitled" src="https://user-images.githubusercontent.com/50066454/161711109-6a486411-de22-49ec-b0b5-db54128cd01a.png">
+
+
 ## Reco Setting
 
 ### Installing Implicit
